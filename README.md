@@ -49,4 +49,4 @@ The dataset contains 8,124 instances with categorical features describing mushro
 - Applying Apriori algorithm in real-world datasets  
 
 ## 📄 Project Report
-👉 [View Full Report](Data Mining Project.pdf)
+👉 [View Full Report](Data-Mining-Project.pdf)
